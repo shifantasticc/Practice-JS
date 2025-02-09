@@ -5,7 +5,11 @@
 // let newPass = password.trim();
 // console.log(newPass); //string is immutable
 
-// let str = "shifa shaikh";
+// let str = "Shifa Shaikh";
+// console.log(str.toLowerCase());
+// console.log(str.toUpperCase());
+
+// let str = "Zoya Shaikh";
 // console.log(str.toLowerCase());
 // console.log(str.toUpperCase());
 
