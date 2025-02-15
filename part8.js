@@ -128,4 +128,5 @@
 //     password: "abcd"
 // };
 // let { username: user, password: secret, city = "default" } = student;
-// console.log(user, secret);
+// console.log(user);
+// console.log(secret);
