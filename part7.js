@@ -111,16 +111,16 @@
 // console.log(arrayAvg(arr));
 
 //Q.2 AN ARROW FUNC 'isEven()' THAT TAKES SINGLE NUM AS AGRS AND RETURNS IS IT'S EVEN OR NOT.
-let num1 = prompt("Enter a number.");
-let n = parseInt(num1);
-let isEven = (n) => {
-    if (n%2 == 0) {
-        console.log(`${n} is an Even Number.`);
-    } else {
-        console.log(`${n} is an Odd Number.`);
-    }
-}
-isEven(n);
+// let num1 = prompt("Enter a number.");
+// let n = parseInt(num1);
+// let isEven = (n) => {
+//     if (n%2 == 0) {
+//         console.log(`${n} is an Even Number.`);
+//     } else {
+//         console.log(`${n} is an Odd Number.`);
+//     }
+// }
+// isEven(n);
 
 //Q.3 WHAT IS THE OUTPUT OF THE FOLLOWING CODE.
 
