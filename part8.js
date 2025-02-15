@@ -1,5 +1,3 @@
-//ARRAY METHODS.
-
 //FOR EACH
 // arr = [1, 2, 3, 4, 5];
 
@@ -130,3 +128,34 @@
 // let { username: user, password: secret, city = "default" } = student;
 // console.log(user);
 // console.log(secret);
+
+//Q.1 SQUARE AND SUM THE ARRAY ELEMENTS USING THE ARROW FUNCTION AND FIND THE AVG OF THE ARRAY.
+// let arr = [1, 2, 4, 5];
+
+// let square = arr.map((el) => el * el);
+// console.log(square);
+
+// let sum = arr.reduce((res, el) => res + el);
+// let avg = sum / arr.length;
+// console.log(avg);
+
+//Q.2 CREATE A NEW ARRAY USING MAP FUNC WHOSE EACH ELEMENT IS EQUAL TO THE OG ELEMENT PLUS 5.
+// let num = [1, 4, 6, 9];
+// console.log(num.map((num) => num + 5));
+
+//Q.3 CREATE A ARRAY WHOSE ELEMENTS ARE IN UPPERCASE OF WORDS PRESENT IN THE OG ARRAY.
+// let names = ["shifa", "zoya", "sara", "sona"];
+// console.log(names.map((names) => names.toUpperCase()));
+
+// //Q.4 A FUNC CALLED doubleAndReturnargs WHICH ACCEPTS AN ARRAY AND A VARIABLE NUMBER OF ARGS. THE FUNC SHOULD RETURN A NEW ARRAY WITH THE ORIGINAL ARRAY VALUES AND ALL OF THE ADDITIONAL ARGUMENTS DOUBLED.
+// const doubleAndReturnArgs = (arr, ...args) => [
+//     ...arr,
+//     ...args.map((v) => v * 2),
+// ];
+// doubleAndReturnArgs([1, 2, 3], 4, 7); //(1, 2, 3, 8, 14)
+// doubleAndReturnArgs([3], 4, 2); //(3, 8, 4)
+
+// //Q.5 WRITE A FUNC CALLED mergeObjects THAT ACCEPTS TWO OBJECTS AND RETURNS A NEW OBJECT WHICH CONTAINS ALL TH EKEYS AND VALUES OF THE FIRST OBJECT AND SECOND OBJECT.
+// const mergeObjects = (obj1, obj2) => ({...obj1, ...obj2});
+// mergeObjects({ a: 1, b: 2 }, { c: 3, d: 4 },);
+
