@@ -15,6 +15,8 @@ Welcome to the **Practice-JS** repository! This project is designed to help you 
 ├── 📜 part5.js          # JavaScript Practice File 5
 ├── 📜 part6.js          # JavaScript Practice File 6
 ├── 📜 part7.js          # JavaScript Practice File 7
+├── 📜 part8.js          # JavaScript Practice File 8
+├── 📜 part9.js          # JavaScript Practice File 9
 └── 📄 README.md         # Project Documentation
 ```
 
