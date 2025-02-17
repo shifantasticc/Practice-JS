@@ -9,15 +9,15 @@ Welcome to the **Practice-JS** repository! This project is designed to help you 
 ## 📁 Project Structure
 ```
 📦 Practice-JS
-├── 📄 index.html         # Main HTML file
-├── 📜 part3.js          # JavaScript Practice File 3
-├── 📜 part4.js          # JavaScript Practice File 4
-├── 📜 part5.js          # JavaScript Practice File 5
-├── 📜 part6.js          # JavaScript Practice File 6
-├── 📜 part7.js          # JavaScript Practice File 7
-├── 📜 part8.js          # JavaScript Practice File 8
-├── 📜 part9.js          # JavaScript Practice File 9
-└── 📄 README.md         # Project Documentation
+├── 📄 index.html               # Main HTML file
+├── 📜 3: strings & arrays      # JavaScript Practice File 3
+├── 📜 4: loops                 # JavaScript Practice File 4
+├── 📜 5: Object literals       # JavaScript Practice File 5
+├── 📜 6: function & methods    # JavaScript Practice File 6
+├── 📜 7: Arrow function        # JavaScript Practice File 7
+├── 📜 8: Array methods         # JavaScript Practice File 8
+├── 📜 9: DOM Manipulation      # JavaScript Practice File 9
+└── 📄 README.md                # Project Documentation
 ```
 
 ## 🚀 Features
