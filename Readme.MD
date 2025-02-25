@@ -1,6 +1,6 @@
 # 🛠 Practice-JS Repository
 
-![CSS](https://img.shields.io/badge/CSS-5-yellow?style=for-the-badge&logo=CSS)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
 
 ## 📌 About
