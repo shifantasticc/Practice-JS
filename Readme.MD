@@ -17,6 +17,8 @@ Welcome to the **Practice-JS** repository! This project is designed to help you 
 ├── 📜 7: Arrow function        # JavaScript Practice File 7
 ├── 📜 8: Array methods         # JavaScript Practice File 8
 ├── 📜 9: DOM Manipulation      # JavaScript Practice File 9
+├── 📜 10: Event Listeners      # JavaScript Practice File 10
+├── 📜 11: Promises             # JavaScript Practice File 11
 └── 📄 README.md                # Project Documentation
 ```
 
