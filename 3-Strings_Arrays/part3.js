@@ -20,7 +20,7 @@
 // msg.indexOf("o"); //2
 // msg.indexOf("z"); //-1
 
-// METHOD CHAINING
+// // METHOD CHAINING
 // let msg = "   hello";
 // // let newMsg = msg.trim();
 // // console.log("after trim: ", newMSg); //hello
@@ -31,31 +31,31 @@
 // let newMsg = msg.trim().toUpperCase();
 // console.log(newMsg); //HELLO
 
-// SLICE!!
+// // SLICE!!
 // let str ="ILoveCoding";
 // console.log(str.slice(1,5));
 // console.log(str.slice(-3)); //msglength-3  11-3  ing
 
-//REPLACE REPEAT
+// // REPLACE REPEAT
 // let msg = "ILoveCoding";
 // console.log(msg.replace("Love","Do")); //IDoCoding
 // console.log(msg.repeat(2)); //ILoveCodingILoveCoding
 
-//JS-3 Qno.1
+// // JS-3 Qno.1
 // let arr =[7,9,0,-2];
 // let n = 3;
 
 // let ans = arr.slice(0,n);
 // console.log(ans);
 
-//JS-3 Qno.1
+// //JS-3 Qno.1
 // let arr =[7,9,0,-2];
 // let n = 3;
 
 // let ans = arr.slice(arr.length-n);
 // console.log(ans);
 
-//JS-3 Qno.3
+// // JS-3 Qno.3
 // let str = prompt("enter a string");
 
 // if(str.length == 0){
@@ -80,7 +80,7 @@
 // console.log(`original string = ${str}`);
 // console.log(`string without spaces = ${str.trim()}`);
 
-//JS-3 Qno.6
+// //JS-3 Qno.6
 // let arr = ["hello",'h','1','2','55','88'];
 // let item = 55;
 
@@ -90,4 +90,3 @@
 // else{
 //     console.log("element does not exists in array.");
 // }
-// 
