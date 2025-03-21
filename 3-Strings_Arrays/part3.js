@@ -1,3 +1,4 @@
+
 // let msg = " hello ";
 // msg.trim(); //trims space only from front n back
 
@@ -89,3 +90,4 @@
 // else{
 //     console.log("element does not exists in array.");
 // }
+// 
